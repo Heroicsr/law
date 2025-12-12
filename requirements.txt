@@ -1,0 +1,22 @@
+streamlit==1.33.0
+python-dotenv==1.0.1
+
+# Google Gemini API
+google-generativeai==0.5.4
+
+# LangChain ecosystem
+langchain-core==0.2.10
+langchain-community==0.2.6
+langchain-text-splitters==0.2.2
+langchain-google-genai==1.0.5
+
+# Vector DB (optional, FAISS)
+faiss-cpu==1.7.4
+
+# Document parsing
+python-docx==0.8.11
+PyMuPDF==1.23.26
+
+# Supporting libraries
+tqdm==4.66.2
+typing_extensions>=4.8.0
